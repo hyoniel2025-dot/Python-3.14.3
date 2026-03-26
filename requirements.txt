@@ -1,5 +1,4 @@
 aiogram
-py7zr
 aiohttp
 fastapi
 uvicorn[standard]
